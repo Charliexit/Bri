@@ -174,8 +174,8 @@ global.exito = eg
 
 //⊱ ━━━━━.⋅ Información | Information ⋅.━━━━ ⊰
 
-global.wm = 'Dai'
-global.igfg = 'Dai'
+global.wm = '𝐁𝐫𝐢𝐢.𝐒𝐱𝐱 𝐁𝐨𝐭'
+global.igfg = '𝐁𝐫𝐢𝐢.𝐒𝐱𝐱 𝐁𝐨𝐭'
 global.wait = '*⌛ _Cargando | Charging..._ ▬▭▭▭▭▭▭*'
 global.waitt = '*⌛ _Cargando | Charging..._ ▬▬▭▭▭*'
 global.waittt = '*⌛ _Cargando | Charging..._ ▬▬▬▬▭▭*'
