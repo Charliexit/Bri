@@ -4,7 +4,7 @@ global.dfail('admin', m, conn)
 throw false
 }
 let pesan = args.join` `
-let oi = `*Cualquier duda o consulta sobre el bot hablar a wa.me//51917518909* ${pesan}`
+let oi = `*toda duda o consulta sobre el bot hablar a wa.me//51917518909* ${pesan}`
 let teks = `*» 𝗔𝗰𝘁𝗶𝘃𝗮𝘁𝗲 𝗽𝗹𝗮𝗻𝘁𝗮 𝗱𝗲 𝗺𝗿𝗱 🤬 «*\n\n ${oi}\n\n *𝙴𝚃𝙸𝚀𝚄𝙴𝚃𝙰𝚂:*\n`
 for (let mem of participants) {
 teks += `🖤↬ @${mem.id.split('@')[0]}\n`}
